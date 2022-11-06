@@ -3,5 +3,4 @@ pandas
 matplotlib
 seaborn
 sklearn
-Flask
-math
+flask
