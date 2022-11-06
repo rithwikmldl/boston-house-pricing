@@ -12,3 +12,9 @@ Create a new Environment
 ```
 conda create -p venv python==3.10 -y
 ```
+
+Create the Requirements file with name requirements.txt and use following command to install all the necessary packages
+
+```
+pip install -r requirements.txt
+```
