@@ -77,6 +77,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Additional files
+commands_ref.txt
+
 # IPython
 profile_default/
 ipython_config.py
@@ -127,3 +130,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pickle files
+linRegModel.pkl
